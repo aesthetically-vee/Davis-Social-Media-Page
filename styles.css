@@ -1,0 +1,36 @@
+.flex-parent {
+    width: 100%;
+    height: 200vh;
+    display: flex;
+}
+
+div {
+    border: 2px solid black;
+    margin: 15px;
+}
+
+.left {
+    width: 25%;
+}
+
+.middle {
+    width: 50%;
+}
+
+.right {
+    width: 25%;
+}
+
+img {
+    width: 100%;
+}
+
+.middlechild
+{background-color: bisque; 
+}
+
+.fish
+{background-color:darksalmon;
+}
+
+.grape{background-color:darkorchid;}
